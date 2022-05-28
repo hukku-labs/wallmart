@@ -5,3 +5,4 @@ Stage Branch
 Git Stash Testing
 Cherry-pick Test
 Cherry-pick Revert
+Git fetch
